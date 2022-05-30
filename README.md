@@ -8,7 +8,7 @@
 
 
 
-[![نصب الان من هنا](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WALEUSERBOT/WALEUSERHELP)
+[![نصب الان من هنا](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yah737dh/yah737dh)
 
 
 **its simple source based on catuserbot but in arabic language !**
